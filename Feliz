@@ -1,0 +1,876 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="http://tecnotv.info/logoss/canal%205%20HD.png" group-title="Mexico",Canal 5 HD
+http://live207.budtv.tv:8081/budtv/canal_5_masterbox_170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4ouffE.png" group-title="CANALES LISTA PRIVADA",TNT 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp36.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CANALES LISTA PRIVADA",TNT SERIES 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp113.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WP0vprL.jpg" group-title="CANALES LISTA PRIVADA",AE MUNDO 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp379.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWKWo9l.png" group-title="CANALES LISTA PRIVADA",TRU TV 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp40.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xd7C3Io.jpg" group-title="CANALES LISTA PRIVADA",DISCOVERY CHANNEL 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp277.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfYGeqc.jpg" group-title="CANALES LISTA PRIVADA",DISCOVERY HOME HEALTH 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp273.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSvumEF.png" group-title="CANALES LISTA PRIVADA",DISCOVERY TLC 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp181.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIhYgSg.png" group-title="CANALES LISTA PRIVADA",DISCOVERY THEATER 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp324.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORxON3Q.png" group-title="CANALES LISTA PRIVADA",DISCOVERY WORLD 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp321.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDO2Es6.png" group-title="CANALES LISTA PRIVADA",DISCOVERY KIDS 1080P CALIDAD LISTA PRIVADA
+http://tvpremiumhd.club/lista-gratuita/me/lp423.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4ouffE.png" group-title="CINE PREMIUM",TNT
+http://tvpremiumhd.club/lista-gratuita/me/g540.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES
+http://tvpremiumhd.club/lista-gratuita/me/g539.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWKWo9l.png" group-title="ENTRETENIMIENTO",TRU TV
+http://tvpremiumhd.club/lista-gratuita/me/g466.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpYcjC3.png" group-title="CINE PREMIUM",Golden Plus
+http://tvpremiumhd.club/lista-gratuita/me/g458.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qjju0II.png" group-title="CINE PREMIUM",GOLDEN PREMIER
+http://tvpremiumhd.club/lista-gratuita/me/g546.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNvKYk8.png" group-title="CINE PREMIUM",CINECANAL
+http://tvpremiumhd.club/lista-gratuita/me/g525.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCWWFNR.png" group-title="CINE PREMIUM",HBO
+http://tvpremiumhd.club/lista-gratuita/me/g473.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2
+http://tvpremiumhd.club/lista-gratuita/me/g508.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aHCTHz.jpg" group-title="CINE PREMIUM",HBO PLUS
+http://tvpremiumhd.club/lista-gratuita/me/g574.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg" group-title="CINE PREMIUM",HBO SIGNATURE
+http://tvpremiumhd.club/lista-gratuita/me/g489.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOlGqW3.png" group-title="CINE PREMIUM",HBO FAMILY
+http://tvpremiumhd.club/lista-gratuita/me/g542.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrYVhhK.png" group-title="CINE PREMIUM",UNIVERSAL CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g585.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRXu7CR.png" group-title="CINE PREMIUM",PARAMOUNT
+http://tvpremiumhd.club/lista-gratuita/me/g486.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vStEmSz.png" group-title="CINE PREMIUM",CINEMAX
+http://tvpremiumhd.club/lista-gratuita/me/g504.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1aWDfR.jpg" group-title="CINE PREMIUM",MAX PRIME
+http://tvpremiumhd.club/lista-gratuita/me/g492.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVX98sz.png" group-title="CINE PREMIUM",MAX UP
+http://tvpremiumhd.club/lista-gratuita/me/g509.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ani68Fx.png" group-title="CINE PREMIUM",SPACE
+http://tvpremiumhd.club/lista-gratuita/me/g562.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="CINE PREMIUM",TCM LATINO
+http://tvpremiumhd.club/lista-gratuita/me/g506.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jeP1P4U.png" group-title="CINE PREMIUM",SONY
+http://tvpremiumhd.club/lista-gratuita/me/g502.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1SuE4f6.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL
+http://tvpremiumhd.club/lista-gratuita/me/g488.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEAseOE.jpg" group-title="CINE PREMIUM",FOX CINEMA
+http://tvpremiumhd.club/lista-gratuita/me/g528.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Vb5kv2.jpg" group-title="CINE PREMIUM",FOX PREMIUN ACTION
+http://tvpremiumhd.club/lista-gratuita/me/g468.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uT3M7lL.jpg" group-title="CINE PREMIUM",FOX PREMIUN FAMILY
+http://tvpremiumhd.club/lista-gratuita/me/g469.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A04zXqz.png" group-title="CINE PREMIUM",FOX PREMIUN MOVIES
+http://tvpremiumhd.club/lista-gratuita/me/g470.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFeZD7J.jpg" group-title="CINE PREMIUM",FOX CLASSICS
+http://tvpremiumhd.club/lista-gratuita/me/g529.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhHWw7B.jpg" group-title="CINE PREMIUM",FOX COMEDY
+http://tvpremiumhd.club/lista-gratuita/me/g559.t
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byu8ZMS.jpg" group-title="CINE PREMIUM",FOX CINEMA
+http://tvpremiumhd.club/lista-gratuita/me/g528.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wct1XiG.jpg" group-title="CINE PREMIUM",DHE
+http://tvpremiumhd.club/lista-gratuita/me/g560.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png" group-title="CINE PREMIUM",CINEMA DINAMITA
+http://tvpremiumhd.club/lista-gratuita/me/g491.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg" group-title="CINE PREMIUM",CLARO CINEMA
+http://tvpremiumhd.club/lista-gratuita/me/g543.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3kxTqX.jpg" group-title="CINE PREMIUM",MP
+http://tvpremiumhd.club/lista-gratuita/me/g499.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NHQtMLU.jpg" group-title="CINE PREMIUM",De Pelicula
+http://tvpremiumhd.club/lista-gratuita/me/g433.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lEx1PIf.jpg" group-title="CINE PREMIUM",CINELATINO
+http://tvpremiumhd.club/lista-gratuita/me/g534.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E1lDdAO.png" group-title="MUSICA",MTV HITS 
+http://tvpremiumhd.club/lista-gratuita/me/g494.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUhJsJO.png" group-title="MUSICA",MTV LIVE
+http://tvpremiumhd.club/lista-gratuita/me/g570.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="INFANTIL",NICK JR
+http://tvpremiumhd.club/lista-gratuita/me/g510.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lFMuDrU.png" group-title="TV USA",FOX NEWS
+http://tvpremiumhd.club/lista-gratuita/me/g563.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGkZSlN.png" group-title="TV USA",FRANCE24
+http://tvpremiumhd.club/lista-gratuita/me/g557.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RwKBS1.jpg" group-title="TV COLOMBIA",RCN TELENOVELAS
+http://tvpremiumhd.club/lista-gratuita/me/g482.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png" group-title="INFANTIL",TOONCAST
+http://tvpremiumhd.club/lista-gratuita/me/g503.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZCI6I01.png" group-title="TV VENEZUELA",VEPLUS TV
+http://tvpremiumhd.club/lista-gratuita/me/g569.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PEbEIT.jpg" group-title="MUSICA",VH1 
+http://tvpremiumhd.club/lista-gratuita/me/g580.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDNFi3L.gif" group-title="MUSICA",VH1 CLASSIC
+http://tvpremiumhd.club/lista-gratuita/me/g566.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/paNj0dj.png" group-title="CINE PREMIUM",WARNER CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g531.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rr74rgJ.png" group-title="CINE PREMIUM",MULTIPREMIER 
+http://tvpremiumhd.club/lista-gratuita/me/g499.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png" group-title="INFANTIL",NATGEO KIDS
+http://tvpremiumhd.club/lista-gratuita/me/g549.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png" group-title="INFANTIL",NATGEO KIDS MX
+http://tvpremiumhd.club/lista-gratuita/me/g578.ts
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Qp7eSgj.png"" group-title="INFANTIL",NICKELODEON
+http://tvpremiumhd.club/lista-gratuita/me/g544.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0GfsKl.png" group-title="INFANTIL",Nick 2
+http://tvpremiumhd.club/lista-gratuita/me/g457.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HosJIjH.jpg" group-title="TV RELIGION",TVE 24HRS
+http://tvpremiumhd.club/lista-gratuita/me/g548.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaR1lYO.png" group-title="DEPORTES",CLARO SPORTS LATAM 
+http://tvpremiumhd.club/lista-gratuita/me/g576.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GBJsfM.png" group-title="TV COLOMBIA",Caracol
+http://tvpremiumhd.club/lista-gratuita/me/g447.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",Cinema Plus
+http://tvpremiumhd.club/lista-gratuita/me/g431.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQrkjrT.png" group-title="TV COLOMBIA",City Noticias
+http://tvpremiumhd.club/lista-gratuita/me/g444.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrxCroh.png" group-title="TV COLOMBIA",Teleantioquia
+http://tvpremiumhd.club/lista-gratuita/me/g443.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0zJjHB.jpg" group-title="TV COLOMBIA",Telecafe
+http://tvpremiumhd.club/lista-gratuita/me/g442.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIsRhue.jpg" group-title="MUSICA",K MUSICA
+http://tvpremiumhd.club/lista-gratuita/me/g477.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BA7HGCF.png" group-title="DEPORTES",Claro Sport
+http://tvpremiumhd.club/lista-gratuita/me/g464.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAjtqzx.png" group-title="TV COLOMBIA",ANTV
+http://tvpremiumhd.club/lista-gratuita/me/g441.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRcgmCH.png"  group-title="MUSICA",Vibee TV
+http://tvpremiumhd.club/lista-gratuita/me/vibeetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iu7zWjC.jpg" group-title="TV RELIGION",EWTN
+http://tvpremiumhd.club/lista-gratuita/me/g520.ts
+#EXTINF:-1 tvg-name="TLX" tvg-logo="https://i.imgur.com/2k00AmQ.png" group-title="TV ARGENTINA",TLX
+http://tvpremiumhd.club/lista-gratuita/me/tlx.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y169O3e.jpg" group-title="TV RELIGION",Esne
+http://tvpremiumhd.club/lista-gratuita/me/g446.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ku5riNB.png" group-title="TV COLOMBIA",TELEPACIFICO
+http://tvpremiumhd.club/lista-gratuita/me/g474.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mTyU3w.png" group-title="TV USA",Arirang
+http://tvpremiumhd.club/lista-gratuita/me/g448.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAMLkhS.png" group-title="TV USA",ISat
+http://tvpremiumhd.club/lista-gratuita/me/g432.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",Telemundo Internacional
+http://tvpremiumhd.club/lista-gratuita/me/g437.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCw8s5.png" group-title="TV USA LATINO",UNIVISION
+http://tvpremiumhd.club/lista-gratuita/me/univision.m3u8
+
+#EXTINF:-1 tvg-name="ENTRETENIMIENTO" tvg-logo="http://tvpremiumhd.com/tv.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4jXnIFR.png" group-title="ENTRETENIMIENTO",HISTORY CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g517.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPBfzSY.png" group-title="ENTRETENIMIENTO",HISTORY H2
+http://tvpremiumhd.club/lista-gratuita/me/g516.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sibUtch.png" group-title="ENTRETENIMIENTO",NATGEO LAT
+http://tvpremiumhd.club/lista-gratuita/me/g515.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sibUtch.png" group-title="ENTRETENIMIENTO",NATGEO MX
+http://tvpremiumhd.club/lista-gratuita/me/g579.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4nJB3w.png" group-title="ENTRETENIMIENTO",TBS LATINO
+http://tvpremiumhd.club/lista-gratuita/me/g582.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6AoqU5.png" group-title="ENTRETENIMIENTO",AMC
+http://tvpremiumhd.club/lista-gratuita/me/g481.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqsIi3U.jpg" group-title="ENTRETENIMIENTO",ANIMAL PLANET
+http://tvpremiumhd.club/lista-gratuita/me/g484.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7b5AOe.jpg" group-title="ENTRETENIMIENTO",AXN
+http://tvpremiumhd.club/lista-gratuita/me/g505.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xd7C3Io.jpg" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g514.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfYGeqc.jpg" group-title="ENTRETENIMIENTO",DISCOVERY HOME HEALTH
+http://tvpremiumhd.club/lista-gratuita/me/g513.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDO2Es6.png" group-title="ENTRETENIMIENTO",DISCOVERY KIDS
+http://tvpremiumhd.club/lista-gratuita/me/g551.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5CXRhw.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
+http://tvpremiumhd.club/lista-gratuita/me/g554.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WP0vprL.jpg" group-title="ENTRETENIMIENTO",AE MUNDO
+http://tvpremiumhd.club/lista-gratuita/me/g568.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIhYgSg.png" group-title="ENTRETENIMIENTO",DISCOVERY THEATER
+http://tvpremiumhd.club/lista-gratuita/me/g524.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVDugW1.png" group-title="ENTRETENIMIENTO",DISCOVERY TURBO 
+http://tvpremiumhd.club/lista-gratuita/me/g552.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORxON3Q.png" group-title="ENTRETENIMIENTO",DISCOVERY WORLD
+http://tvpremiumhd.club/lista-gratuita/me/g523.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSvumEF.png" group-title="ENTRETENIMIENTO",DISCOVERY TLC
+http://tvpremiumhd.club/lista-gratuita/me/s234.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H97TpU3.png" group-title="ENTRETENIMIENTO",FXM
+http://tvpremiumhd.club/lista-gratuita/me/g497.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27XL9YT.jpg" group-title="ENTRETENIMIENTO",FX
+http://tvpremiumhd.club/lista-gratuita/me/g541.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKwW867.jpg" group-title="ENTRETENIMIENTO",GOLF LATIN AMERICA
+http://tvpremiumhd.club/lista-gratuita/me/g459.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png" group-title="ENTRETENIMIENTO",Investigation Discovery
+http://tvpremiumhd.club/lista-gratuita/me/g454.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZyDEOB.png" group-title="ENTRETENIMIENTO",Cablenoticias
+http://tvpremiumhd.club/lista-gratuita/me/g455.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sldvAF.png" group-title="ENTRETENIMIENTO",Canal Tro
+http://tvpremiumhd.club/lista-gratuita/me/g440.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3xT8gf.png" group-title="ENTRETENIMIENTO",Canal Uno
+http://tvpremiumhd.club/lista-gratuita/me/g445.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yN4Ej85.jpg" group-title="ENTRETENIMIENTO",TV Agro
+http://tvpremiumhd.club/lista-gratuita/me/g465.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSIjwYT.png" group-title="ENTRETENIMIENTO",VALLENATO
+http://tvpremiumhd.club/lista-gratuita/me/g476.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HW8vhzI.jpg" group-title="ENTRETENIMIENTO",NATGEO WILD
+http://tvpremiumhd.club/lista-gratuita/me/g532.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqQF4Ha.jpg" group-title="ENTRETENIMIENTO",PASIONES
+http://tvpremiumhd.club/lista-gratuita/me/g496.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4qfyEI.png" group-title="ENTRETENIMIENTO",FXM MX
+http://tvpremiumhd.club/lista-gratuita/me/g577.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPkOdMQ.gif" group-title="MUSICA",MTV
+http://tvpremiumhd.club/lista-gratuita/me/g498.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vXBNe7.png" group-title="ENTRETENIMIENTO",INTI
+http://tvpremiumhd.club/lista-gratuita/me/g565.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijKffyy.png" group-title="ENTRETENIMIENTO",LIFETIME 
+http://tvpremiumhd.club/lista-gratuita/me/g530.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRZXvUb.png" group-title="ENTRETENIMIENTO",MASCHIC
+http://tvpremiumhd.club/lista-gratuita/me/g483.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCDkSlL.png" group-title="ENTRETENIMIENTO",CLARO
+http://tvpremiumhd.club/lista-gratuita/me/g485.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJwIKHo.jpg" group-title="ENTRETENIMIENTO",dataiFX
+http://tvpremiumhd.club/lista-gratuita/me/g438.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3hIYsbv.png" group-title="ENTRETENIMIENTO",TV5 
+http://tvpremiumhd.club/lista-gratuita/me/g526.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rK2Edze.png" group-title="ENTRETENIMIENTO",Glitz
+http://tvpremiumhd.club/lista-gratuita/me/g436.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CfRqBGh.png" group-title="ENTRETENIMIENTO",GOURMET
+http://tvpremiumhd.club/lista-gratuita/me/g522.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiqPmoM.jpg" group-title="ENTRETENIMIENTO",HOLA TV
+http://tvpremiumhd.club/lista-gratuita/me/g555.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DH0um4A.jpg" group-title="ENTRETENIMIENTO",CNN ESPANOL
+http://tvpremiumhd.club/lista-gratuita/me/g518.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJPQQRc.png" group-title="ENTRETENIMIENTO",CNN INTERNACIONAL
+http://tvpremiumhd.club/lista-gratuita/me/g564.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTqcB5s.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://tvpremiumhd.club/lista-gratuita/me/g480.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TObkAzG.png" group-title="ENTRETENIMIENTO",CONCERT CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g507.ts
+#EXTINF:-1 tvg-name="Travel" tvg-logo="https://i.imgur.com/LzqmVlI.png" group-title="ENTRETENIMIENTO",Travel
+http://tvpremiumhd.club/lista-gratuita/me/travelhd.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/FOwNemD.png" group-title="ENTRETENIMIENTO",CNN
+http://tvpremiumhd.club/lista-gratuita/me/cnn.m3u8
+#EXTINF:-1 tvg-name="Miami TV" tvg-logo="https://i.imgur.com/wmL28an.jpg" group-title="ENTRETENIMIENTO",Miami TV
+http://tvpremiumhd.club/lista-gratuita/me/miamitvusa.m3u8
+#EXTINF:-1 tvg-name="Miami TV España" tvg-logo="https://i.imgur.com/wmL28an.jpg" group-title="ENTRETENIMIENTO",Miami TV España
+http://tvpremiumhd.club/lista-gratuita/me/miamitves.m3u8
+#EXTINF:-1 tvg-name="RT Latino" tvg-logo="https://i.imgur.com/iz9Hmmc.png" group-title="ENTRETENIMIENTO",RT Latino
+http://tvpremiumhd.club/lista-gratuita/me/rt.m3u8
+#EXTINF:-1 tvg-name="WOW TV" tvg-logo="https://i.imgur.com/HsFPm0z.png" group-title="ENTRETENIMIENTO",WOW TV
+http://tvpremiumhd.club/lista-gratuita/me/s729.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gOj3UIp.png" group-title="ENTRETENIMIENTO",Rai Italia
+http://tvpremiumhd.club/lista-gratuita/me/g434.ts
+
+
+#EXTINF:-1 tvg-name="TV MÚSICA" tvg-logo="http://tvpremiumhd.com/tv.png" group-title="MUSICA",TV MÚSICA
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4oMtJ2l.png" group-title="MUSICA",VH1 HD
+http://tvpremiumhd.club/lista-gratuita/me/g580.ts
+#EXTINF:-1 tvg-name="Music Choice" tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",MC Music Choice
+http://tvpremiumhd.club/lista-gratuita/me/mcmusicchoice.m3u8
+#EXTINF:-1 tvg-name="Radio Virgin" tvg-logo="https://i.imgur.com/H0MgtZm.png" group-title="MUSICA",Radio Virgin
+http://tvpremiumhd.club/lista-gratuita/me/radiovirgen.m3u8
+#EXTINF:-1 tvg-name="Capital TV" tvg-logo="https://i.imgur.com/XBOzTtt.png" group-title="MUSICA",Capital TV
+http://tvpremiumhd.club/lista-gratuita/me/capitaltv.m3u8
+#EXTINF:-1 tvg-name="Mi Música" tvg-logo="https://i.imgur.com/kAk4Rya.jpg" group-title="MUSICA",Mi Música
+http://tvpremiumhd.club/lista-gratuita/me/mimusica.m3u8
+#EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MUSICA",TOP Latino
+http://tvpremiumhd.club/lista-gratuita/me/toplatino.m3u8
+#EXTINF:-1 tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/jkPslQI.png" group-title="MUSICA",Teleritmo
+http://tvpremiumhd.club/lista-gratuita/me/teleritmo.m3u8
+#EXTINF:-1 tvg-name="Melody Channel" tvg-logo="https://i.imgur.com/2YpJ1JG.png" group-title="MUSICA",Melody Channel
+http://tvpremiumhd.club/lista-gratuita/me/melodychannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AKFQsIa.png" group-title="MUSICA",Radiola
+http://tvpremiumhd.club/lista-gratuita/me/g452.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jciQ971.png" group-title="MUSICA",RED
+http://tvpremiumhd.club/lista-gratuita/me/g472.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV
+http://tvpremiumhd.club/lista-gratuita/me/g572.ts
+#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://i.imgur.com/jZBNv7o.png" group-title="MUSICA",Retro TV
+http://tvpremiumhd.club/lista-gratuita/me/retrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TRaNOW.jpg" group-title="TV MEXICO",MVS Noticias
+http://tvpremiumhd.club/lista-gratuita/me/s740.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES",ESPN 1
+http://tvpremiumhd.club/lista-gratuita/me/g453.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2ZydTG.gif" group-title="DEPORTES",ESPN 2
+http://tvpremiumhd.club/lista-gratuita/me/g456.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES",ESPN 3
+http://tvpremiumhd.club/lista-gratuita/me/g586.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWt3VYp.png" group-title="DEPORTES",ESPN +
+http://tvpremiumhd.club/lista-gratuita/me/g584.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="DEPORTES",FOX SPORTS 1 MX
+http://tvpremiumhd.club/lista-gratuita/me/g430.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PBLizD.png" group-title="DEPORTES",FOX SPORTS 2 MX
+http://tvpremiumhd.club/lista-gratuita/me/g429.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90DdUDy.png" group-title="DEPORTES",FOX SPORTS 3 MX
+http://tvpremiumhd.club/lista-gratuita/me/g428.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="DEPORTES",FOX SPORTS 1
+http://tvpremiumhd.club/lista-gratuita/me/g463.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PBLizD.png" group-title="DEPORTES",FOX SPORTS 2
+http://tvpremiumhd.club/lista-gratuita/me/g461.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90DdUDy.png" group-title="DEPORTES",FOX SPORTS 3
+http://tvpremiumhd.club/lista-gratuita/me/g462.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMiwZJM.png" group-title="DEPORTES",WIN SPORTS
+http://tvpremiumhd.club/lista-gratuita/me/g471.ts
+
+#EXTINF:-1 tvg-name="DW Entretenimiento" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Entretenimiento
+http://tvpremiumhd.club/lista-gratuita/me/dwentretenimiento.m3u8
+#EXTINF:-1 tvg-name="Garage TV" tvg-logo="https://i.imgur.com/DoGSBuU.jpg" group-title="TV ARGENTINA",Garage TV
+http://tvpremiumhd.club/lista-gratuita/me/garagetv.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",Telemundo
+http://tvpremiumhd.club/lista-gratuita/me/telemundox.m3u8
+#EXTINF:-1 tvg-name="Educa TC" tvg-logo="https://i.imgur.com/ESmucp9.png" group-title="TV ECUADOR",Educa TC
+http://tvpremiumhd.club/lista-gratuita/me/tc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/roIrYIZ.jpg" group-title="TV CHILE",Chilevision
+http://tvpremiumhd.club/lista-gratuita/me/chilevision.m3u8
+#EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://i.imgur.com/5WJjTY5.png" group-title="TV CHILE",T13 CHILE
+http://tvpremiumhd.club/lista-gratuita/me/tvchile.m3u8
+#EXTINF:-1 tvg-name="Carnaval 38" tvg-logo="https://i.imgur.com/AL3AGGx.png" group-title="TV CHILE",CANAL CARNAVAL
+http://tvpremiumhd.club/lista-gratuita/me/carnaval38.m3u8
+
+#EXTINF:-1 tvg-name="Amag TV" tvg-logo="https://i.imgur.com/hhEgVR5.png" group-title="TV PERU",Amag TV
+http://tvpremiumhd.club/lista-gratuita/me/amagtv.m3u8
+#EXTINF:-1 tvg-name="INFANTIL" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="INFANTIL",INFANTIL
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://i.imgur.com/sBzrWAd.png" group-title="INFANTIL",Locomotion
+http://tvpremiumhd.club/lista-gratuita/me/locomotion.m3u8
+#EXTINF:-1 tvg-name="Caricaturas TV" tvg-logo="https://i.imgur.com/tAfYkiy.png" group-title="INFANTIL",Caricatura TV
+http://tvpremiumhd.club/lista-gratuita/me/animax.m3u8
+#EXTINF:-1 tvg-name="Neox Kids" tvg-logo="https://i.imgur.com/J8kHVW3.png" group-title="INFANTIL",Neox
+http://tvpremiumhd.club/lista-gratuita/me/s716.ts
+#EXTINF:-1 tvg-name="TV ESPAÑA" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="TV ESPAÑA",TV ESPAÑA
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4dqBCo.png" group-title="TV ESPAÑA",Antena 3 
+http://tvpremiumhd.club/lista-gratuita/me/s726.ts
+#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://i.imgur.com/xexK7ze.png" group-title="TV ESPAÑA",Atreseries
+http://tvpremiumhd.club/lista-gratuita/me/atreseries.m3u8
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://i.imgur.com/8GQq82x.png" group-title="TV ESPAÑA",Nova
+http://tvpremiumhd.club/lista-gratuita/me/s714.ts
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/n3Z7QJa.png" group-title="TV ESPAÑA",Mega
+http://tvpremiumhd.club/lista-gratuita/me/s718.ts
+#EXTINF:-1 tvg-name="8 TV Espana" tvg-logo="https://i.imgur.com/JeVPiDw.png" group-title="TV ESPAÑA",8 TV Espana
+http://tvpremiumhd.club/lista-gratuita/me/8tvespana.m3u8
+#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://i.imgur.com/gctMiFQ.png" group-title="TV ESPAÑA",La Sexta
+http://tvpremiumhd.club/lista-gratuita/me/s721.ts
+#EXTINF:-1 tvg-name="DW Internacional" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Internacional
+http://tvpremiumhd.club/lista-gratuita/me/dwinternacional.m3u8
+#EXTINF:-1 tvg-name="CGTN En Espanol" tvg-logo="https://i.imgur.com/8lMqMLB.png" group-title="ENTRETENIMIENTO",CGTN En Espanol 
+http://tvpremiumhd.club/lista-gratuita/me/cgtnespanol.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDqyp4.png" group-title="TV RELIGION",Cristovision
+http://tvpremiumhd.club/lista-gratuita/me/g450.ts
+#EXTINF:-1 tvg-name="La voz de Maria" tvg-logo="https://i.imgur.com/PwHVXGU.png" group-title="TV RELIGION",La voz de Maria
+http://tvpremiumhd.club/lista-gratuita/me/lavozdemaria.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEwgwi4.png" group-title="TV RELIGION",Enlace 
+http://tvpremiumhd.club/lista-gratuita/me/g449.ts
+#EXTINF:-1 tvg-name="NexTV" tvg-logo="https://i.imgur.com/CeUebJG.png" group-title="TV PANAMA",NexTV
+http://tvpremiumhd.club/lista-gratuita/me/nextv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AoAPocc.png" group-title="TV USA",Headline News
+http://tvpremiumhd.club/lista-gratuita/me/g435.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nazydLA.png" group-title="TV USA",BBC World News
+http://tvpremiumhd.club/lista-gratuita/me/g439.ts
+#EXTINF:-1 tvg-name="Weather Channel" tvg-logo="https://i.imgur.com/ydCqNYb.jpg" group-title="TV USA",Weather Channel
+http://tvpremiumhd.club/lista-gratuita/me/weatherchannel.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="TV USA",CBS News
+http://tvpremiumhd.club/lista-gratuita/me/cbsnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHa1xug.jpg" group-title="TV MEXICO",TV UNAM
+http://tvpremiumhd.club/lista-gratuita/me/s668.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHa1xug.jpg" group-title="TV MEXICO",TV UNAM 2
+http://tvpremiumhd.club/lista-gratuita/me/s669.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Voy0XRS.png" group-title="TV MEXICO",TLNOVELAS
+http://tvpremiumhd.club/lista-gratuita/me/g511.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jlySe5X.png" group-title="INFANTIL",NIÑOS KIDS
+http://tvpremiumhd.club/lista-gratuita/me/s697.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6r79gR.png" group-title="TV ESPAÑA",TV CANAL VASCO
+http://tvpremiumhd.club/lista-gratuita/me/s693.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KV2yfhz.png" group-title="TV VENEZUELA",TELESUR
+http://tvpremiumhd.club/lista-gratuita/me/s737.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO
+http://tvpremiumhd.club/lista-gratuita/me/s680.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO 51
+http://tvpremiumhd.club/lista-gratuita/me/s757.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wix1NXJ.png" group-title="TV MEXICO",TELEMAR
+http://tvpremiumhd.club/lista-gratuita/me/s667.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GxqTE25.png" group-title="TV ESPAÑA",TELECINCO
+http://tvpremiumhd.club/lista-gratuita/me/s735.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YBtQd9l.png" group-title="TV ESPAÑA",RTV CE
+http://tvpremiumhd.club/lista-gratuita/me/s720.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GW4v83t.png" group-title="TV PANAMA",RPC
+http://tvpremiumhd.club/lista-gratuita/me/s727.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/muVOXZE.png" group-title="TV MEXICO",RCG 1 MEXICO
+http://tvpremiumhd.club/lista-gratuita/me/s670.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l140TKu.png" group-title="MUSICA",RCG RADIO Y TV
+http://tvpremiumhd.club/lista-gratuita/me/s728.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvlytDe.png" group-title="TV ESPAÑA",FDF
+http://tvpremiumhd.club/lista-gratuita/me/s709.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7V89De.png" group-title="DEPORTES",MUNDO AUTO
+http://tvpremiumhd.club/lista-gratuita/me/s674.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJw5fKL.png" group-title="TV ESPAÑA",MOVISTAR SERIES EXTRA
+http://tvpremiumhd.club/lista-gratuita/me/s699.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3RpJoB.png" group-title="TV ESPAÑA",MOVISTAR FUTBOL
+http://tvpremiumhd.club/lista-gratuita/me/s744.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOgezsz.png" group-title="TV ESPAÑA",MOVISTAR DCINE
+http://tvpremiumhd.club/lista-gratuita/me/s702.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4GqLCmR.png" group-title="TV ESPAÑA",MOVISTAR COMEDIA
+http://tvpremiumhd.club/lista-gratuita/me/s701.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72sGTeY.png" group-title="TV ESPAÑA",MOVISTAR ACCION
+http://tvpremiumhd.club/lista-gratuita/me/s704.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2E5cQzM.png" group-title="TV ESPAÑA" group-title="DEPORTES",MOTO GP
+http://tvpremiumhd.club/lista-gratuita/me/s713.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7PZJRY.png" group-title="TV ESPAÑA",LIFE TV
+http://tvpremiumhd.club/lista-gratuita/me/s712.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWhBJpJ.jpg" group-title="TV ESPAÑA",LEVANTANTE TV
+http://tvpremiumhd.club/lista-gratuita/me/s691.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8lsqWi.jpg" group-title="TV ESPAÑA",LANCELOT TV
+http://tvpremiumhd.club/lista-gratuita/me/s698.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkfoIGN.jpg" group-title="TV RELIGION",BETHEL
+http://tvpremiumhd.club/lista-gratuita/me/s688.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gctMiFQ.png" group-title="TV ESPAÑA",LA SEXTA
+http://tvpremiumhd.club/lista-gratuita/me/s736.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqOaR3e.png" group-title="DEPORTES",LALIGA TV
+http://tvpremiumhd.club/lista-gratuita/me/s743.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CATe931.png" group-title="TV RELIGION",IMPACTOVISION
+http://tvpremiumhd.club/lista-gratuita/me/s748.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4RebR0.png" group-title="MUSICA",HEART TV
+http://tvpremiumhd.club/lista-gratuita/me/s754.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbOC3GU.png" group-title="ENTRETENIMIENTO" group-title="TV ESPAÑA",FOX LIFE ESPAÑA
+http://tvpremiumhd.club/lista-gratuita/me/s689.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F46q6Ye.png" group-title="CINE PREMIUM" group-title="TV ESPAÑA",FOX
+http://tvpremiumhd.club/lista-gratuita/me/s706.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idj7sd7.png" group-title="DEPORTES" group-title="TV ESPAÑA",MOVISAR FORMMULA 1
+http://tvpremiumhd.club/lista-gratuita/me/s752.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/InG3Xv9.png" group-title="TV CHILE",FMHOT
+http://tvpremiumhd.club/lista-gratuita/me/s731.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="TV COSTA RICA",EXTREMA TV
+http://tvpremiumhd.club/lista-gratuita/me/s730.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7r3A5N.jpg" group-title="TV ESPAÑA",DIVINITY
+http://tvpremiumhd.club/lista-gratuita/me/s711.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NYHCub.png" group-title="TV ESPAÑA",CUATRO
+http://tvpremiumhd.club/lista-gratuita/me/s734.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1WNiap.png" group-title="TV ESPAÑA",COSMO
+http://tvpremiumhd.club/lista-gratuita/me/s684.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3ls8Fd.png" group-title="ENTRETENIMIENTO" group-title="TV ESPAÑA",COMEDY CENTRAL
+http://tvpremiumhd.club/lista-gratuita/me/s685.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgU8zgQ.png" group-title="TV COLOMBIA",RED COLOMBIA
+http://tvpremiumhd.club/lista-gratuita/me/s760.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Agqi8V.gif" group-title="TV COLOMBIA",RCN
+http://tvpremiumhd.club/lista-gratuita/me/s677.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADK0jkY.png" group-title="TV CHILE",CHV 3
+http://tvpremiumhd.club/lista-gratuita/me/s679.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZ3va2e.jpg" group-title="TV MEXICO",C7 JALISCO
+http://tvpremiumhd.club/lista-gratuita/me/s672.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Le8KASa.png" group-title="DEPORTES",BEIN SPORTS 
+http://tvpremiumhd.club/lista-gratuita/me/s682.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Le8KASa.png" group-title="DEPORTES",BEIN SPORTS OP2
+http://tvpremiumhd.club/lista-gratuita/me/s750.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Le8KASa.png" group-title="DEPORTES",BEIN SPORTS OP3
+http://tvpremiumhd.club/lista-gratuita/me/s749.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awmsFwL.png" group-title="CINE PREMIUM" group-title="TV ESPAÑA",HOLLYWOOD
+http://tvpremiumhd.club/lista-gratuita/me/s686.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lH5zKNm.png" group-title="TV ESPAÑA",AXN
+http://tvpremiumhd.club/lista-gratuita/me/s751.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7HkaT9.png" group-title="TV ESPAÑA",AXN WIHITE
+http://tvpremiumhd.club/lista-gratuita/me/s705.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZpg5FI.png" group-title="TV ESPAÑA",ARAGONTV
+http://tvpremiumhd.club/lista-gratuita/me/s696.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUezFRz.png" group-title="TV RELIGION",ANDALUCIA TV
+http://tvpremiumhd.club/lista-gratuita/me/s695.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuhv6ob.png" group-title="TV ESPAÑA",AMC ESPAÑA
+http://tvpremiumhd.club/lista-gratuita/me/s753.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/as0Z4Mn.png" group-title="TV ESPAÑA",8TV ESPAÑA
+http://tvpremiumhd.club/lista-gratuita/me/s722.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyDDVt9.png" group-title="TV COLOMBIA",CANAL CAPITAL
+http://tvpremiumhd.club/lista-gratuita/me/s676.ts
+#EXTINF:-1  tvg-logo="https://i.imgur.com/f4uwOe9.png" group-title="ENTRETENIMIENTO",JAZMIN TV
+http://tvpremiumhd.club/lista-gratuita/me/s769.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8AGgwm.png" group-title="MUSICA",SON POPULAR
+http://tvpremiumhd.club/lista-gratuita/me/s781.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TMoMcXB.png" group-title="TV USA",RED BULL TV
+http://tvpremiumhd.club/lista-gratuita/me/s775.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Pop Hits HD 
+http://tvpremiumhd.club/lista-gratuita/me/s791.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",MUSICA COOL
+http://tvpremiumhd.club/lista-gratuita/me/s780.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice HD
+http://tvpremiumhd.club/lista-gratuita/me/s800.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Y2K HD
+http://tvpremiumhd.club/lista-gratuita/me/s799.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Tropicales HD
+http://tvpremiumhd.club/lista-gratuita/me/s804.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Toddler Tunes HD
+http://tvpremiumhd.club/lista-gratuita/me/s807.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Today HD
+http://tvpremiumhd.club/lista-gratuita/me/s796.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Throwback Jamz HD
+http://tvpremiumhd.club/lista-gratuita/me/s798.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Teen Beats HD
+http://tvpremiumhd.club/lista-gratuita/me/s805.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Rock HD
+http://tvpremiumhd.club/lista-gratuita/me/s795.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Rap HD
+http://tvpremiumhd.club/lista-gratuita/me/s793.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Rap 2K HD
+http://tvpremiumhd.club/lista-gratuita/me/s794.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice R&B Soul HD
+http://tvpremiumhd.club/lista-gratuita/me/s792.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Pop Latino HD
+http://tvpremiumhd.club/lista-gratuita/me/s803.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Pop & Country HD
+http://tvpremiumhd.club/lista-gratuita/me/s790.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Musica Urbana HD
+http://tvpremiumhd.club/lista-gratuita/me/s802.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Mexicana HD
+http://tvpremiumhd.club/lista-gratuita/me/s801.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Metal HD
+http://tvpremiumhd.club/lista-gratuita/me/s789.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Kidz Only HD
+http://tvpremiumhd.club/lista-gratuita/me/s806.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Indie HD
+http://tvpremiumhd.club/lista-gratuita/me/s788.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Hit HD
+http://tvpremiumhd.club/lista-gratuita/me/s787.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Hip-Hop And R&B HD
+http://tvpremiumhd.club/lista-gratuita/me/s786.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Dance HD
+http://tvpremiumhd.club/lista-gratuita/me/s785.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Brits   Hits HD
+http://tvpremiumhd.club/lista-gratuita/me/s784.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice Alternative HD
+http://tvpremiumhd.club/lista-gratuita/me/s783.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSICA",Music Choice 90 HD
+http://tvpremiumhd.club/lista-gratuita/me/s797.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnpkIqf.png" group-title="MUSICA",MTV DANCE
+http://tvpremiumhd.club/lista-gratuita/me/s778.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33EKzX1.jpg" group-title="DEPORTES",DEPORTV
+http://tvpremiumhd.club/lista-gratuita/me/s776.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCx4kah.png" group-title="DEPORTES",CDO PREMIUM
+http://tvpremiumhd.club/lista-gratuita/me/s777.ts478.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaWSnGe.png" group-title="TV MEXICO",CANAL 22 SOLO MEXICO
+http://tvpremiumhd.club/lista-gratuita/me/canal22mx.m3u8
+#EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="TV MEXICO",Aprende TV
+http://tvpremiumhd.club/lista-gratuita/me/aprendetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xx0uxDw.png" group-title="TV ARGENTINA",CANAL XFN
+http://tvpremiumhd.club/lista-gratuita/me/s838.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECXRJex.jpg" group-title="TV ARGENTINA",URBAN 106.1 FM
+http://tvpremiumhd.club/lista-gratuita/me/s873.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlMVsaK.jpg" group-title="TV VARIOS",UNICANAL TV URUGUAY
+http://tvpremiumhd.club/lista-gratuita/me/s842.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8pPJ8g2.png" group-title="TV VARIOS",TVO EL SALVADOR
+http://tvpremiumhd.club/lista-gratuita/me/s932.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUibVMU.jpg" group-title="TV COSTA RICA",TV SUR 14
+http://tvpremiumhd.club/lista-gratuita/me/s904.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DtaFC.jpg" group-title="TV CHILE",TELEVISIÓN DEL SENADO
+http://tvpremiumhd.club/lista-gratuita/me/s880.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfZ3X14.png" group-title="TV PERU",TV PERU
+http://tvpremiumhd.club/lista-gratuita/me/s893.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ui3iIX4.png" group-title="TV PERU",TV NOTICIAS 7.3
+http://tvpremiumhd.club/lista-gratuita/me/s892.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybIEQj3.png" group-title="TV VARIOS",TSI HONDURAS
+http://tvpremiumhd.club/lista-gratuita/me/s928.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hACIxxz.jpg" group-title="TV RELIGION",SINAR
+http://tvpremiumhd.club/lista-gratuita/me/s903.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sWfGbri.png" group-title="MUSICA" group-title="TV COSTA RICA",TRA DIGITAL
+http://tvpremiumhd.club/lista-gratuita/me/s917.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAsaarX.jpg" group-title="TV VENEZUELA",TLT
+http://tvpremiumhd.club/lista-gratuita/me/s931.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhcvSDA.png" group-title="TV VARIOS",TEN CANAL 10 HONDURAS
+http://tvpremiumhd.club/lista-gratuita/me/s927.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CDXA6Zb.png" group-title="TV CHILE",TELETRAK
+http://tvpremiumhd.club/lista-gratuita/me/s827.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cgH83H.png" group-title="TV COSTA RICA",TELESUR
+http://tvpremiumhd.club/lista-gratuita/me/s901.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8kJx2a.png" group-title="TV ARGENTINA",TELERED ARGENTINA
+http://tvpremiumhd.club/lista-gratuita/me/s844.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png" group-title="TV COSTA RICA",TELERED
+http://tvpremiumhd.club/lista-gratuita/me/s900.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWg9XdZ.png" group-title="TV REP DOMINICANA",TELENORD CANAL 8
+http://tvpremiumhd.club/lista-gratuita/me/s914.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWg9XdZ.png" group-title="TV REP DOMINICANA",TELENORD CANAL 12
+http://tvpremiumhd.club/lista-gratuita/me/s916.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWg9XdZ.png" group-title="TV REP DOMINICANA",TELENORD CANAL 10
+http://tvpremiumhd.club/lista-gratuita/me/s915.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HIoIKC.png" group-title="MUSICA",TELEMUSICA
+http://tvpremiumhd.club/lista-gratuita/me/s815.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ie2kn0m.png" group-title="TV PANAMA",TELEMETRO
+http://tvpremiumhd.club/lista-gratuita/me/s924.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f81u6sj.png" group-title="TV COLOMBIA",TELEISLAS
+http://tvpremiumhd.club/lista-gratuita/me/s887.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c6YAgYx.jpg" group-title="MUSICA",TELEENVIGADO MUSICA
+http://tvpremiumhd.club/lista-gratuita/me/s886.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvCXMat.png" group-title="TV VARIOS",TELECOSTA GUATEMALA
+http://tvpremiumhd.club/lista-gratuita/me/s920.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVyNEMM.png" group-title="TV VARIOS",TELECEIBA CANAL 7 HONDURAS
+http://tvpremiumhd.club/lista-gratuita/me/s926.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aMw3Grm.jpg" group-title="TV COSTA RICA",TELE UNO TV
+http://tvpremiumhd.club/lista-gratuita/me/s902.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjFOqvz.jpg" group-title="TV ARGENTINA",TDC
+http://tvpremiumhd.club/lista-gratuita/me/s837.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8vBuH0.jpg" group-title="MUSICA" group-title="TV ARGENTINA",SOY ROCK
+http://tvpremiumhd.club/lista-gratuita/me/s869.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOxNLhk.jpg" group-title="TV MEXICO",RTG GUERRERO
+http://tvpremiumhd.club/lista-gratuita/me/s851.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZB9PCx.jpg" group-title="TV MEXICO",RQT GUERRERO
+http://tvpremiumhd.club/lista-gratuita/me/s852.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drl8BBM.png" group-title="TV PANAMA",RBC TV
+http://tvpremiumhd.club/lista-gratuita/me/s891.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKr7XMk.png" group-title="TV REP DOMINICANA",ROMANA TV 42
+http://tvpremiumhd.club/lista-gratuita/me/s911.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27OJtkJ.jpg" group-title="TV REP DOMINICANA",RNN CANAL 27
+http://tvpremiumhd.club/lista-gratuita/me/s910.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KfQvEyC.png" group-title="TV MEXICO",RG 1 SALTILLO
+http://tvpremiumhd.club/lista-gratuita/me/s848.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KfQvEyC.png" group-title="TV MEXICO",RG 2 SALTILLO
+http://tvpremiumhd.club/lista-gratuita/me/s849.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KfQvEyC.png" group-title="TV MEXICO",RG 3 SALTILLO
+http://tvpremiumhd.club/lista-gratuita/me/s850.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/liSMo5F.png" group-title="MUSICA",RADIO ITALIA VISION
+http://tvpremiumhd.club/lista-gratuita/me/s835.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnOv3us.png" group-title="MUSICA",RADIO 105 TV
+http://tvpremiumhd.club/lista-gratuita/me/s829.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJQUylZ.png" group-title="MUSICA" group-title="TV ARGENTINA",POWER
+http://tvpremiumhd.club/lista-gratuita/me/s868.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gslWXCh.png" group-title="MUSICA" group-title="TV COLOMBIA",PLAY CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/s831.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBrfn8e.png" group-title="TV PANAMA",OYE TV
+http://tvpremiumhd.club/lista-gratuita/me/s923.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUhuRSI.png" group-title="TV PERU",OVACION
+http://tvpremiumhd.club/lista-gratuita/me/s822.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1nErTs.png" group-title="TV ECUADOR",OROMAR TV
+http://tvpremiumhd.club/lista-gratuita/me/s882.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHCl9Ye.png" group-title="MUSICA",NRJ HITS
+http://tvpremiumhd.club/lista-gratuita/me/s817.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HhEOqo2.png" group-title="DEPORTES" group-title="TV USA",NFL SPORTS
+http://tvpremiumhd.club/lista-gratuita/me/s846.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TUF1EDl.png" group-title="MUSICA",MUSIC VOX TV OLD SCHOOL
+http://tvpremiumhd.club/lista-gratuita/me/s845.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNCNUAy.png" group-title="MUSICA",MUSIC TOP
+http://tvpremiumhd.club/lista-gratuita/me/s834.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hD8Kt4i.jpg" group-title="TV REP DOMINICANA",MICROVISION CANAL 10
+http://tvpremiumhd.club/lista-gratuita/me/s909.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCQcrYJ.png" group-title="MUSICA",M2O TV
+http://tvpremiumhd.club/lista-gratuita/me/s836.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsbSNgc.jpg" group-title="TV ARGENTINA",LITUS TV
+http://tvpremiumhd.club/lista-gratuita/me/s816.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xU4QWFQ.jpg" group-title="TV VENEZUELA",LA TELETUYA
+http://tvpremiumhd.club/lista-gratuita/me/s828.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VJPjWgA.png" group-title="TV VARIOS",INTERCABLE PARAGUAY
+http://tvpremiumhd.club/lista-gratuita/me/s895.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KscZWHC.png" group-title="MUSICA",HIT TV MUSICA
+http://tvpremiumhd.club/lista-gratuita/me/s832.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0E7Wz8k.jpg" group-title="TV COSTA RICA",HBTV TICAVISION
+http://tvpremiumhd.club/lista-gratuita/me/s899.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WESDdNN.jpg" group-title="TV PANAMA",ECO TV
+http://tvpremiumhd.club/lista-gratuita/me/s922.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GU6x01S.jpg" group-title="TV PERU",DIGITAL TV PERU
+http://tvpremiumhd.club/lista-gratuita/me/s890.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDjw77I.jpg" group-title="TV REP DOMINICANA",DIGITAL QUINCE		
+http://tvpremiumhd.club/lista-gratuita/me/s907.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NooNOzk.png" group-title="DEPORTES",COS FC
+http://tvpremiumhd.club/lista-gratuita/me/s921.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zheuhaV.jpg" group-title="DEPORTES",COS FC SPORT
+http://tvpremiumhd.club/lista-gratuita/me/s823.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozXOprX.png" group-title="TV COSTA RICA" group-title="MUSICA",COLOSAL TV
+http://tvpremiumhd.club/lista-gratuita/me/s898.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15m94TV.jpg" group-title="TV REP DOMINICANA",COLOR VISION CANAL 9
+http://tvpremiumhd.club/lista-gratuita/me/s906.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgqVvJ5.png" group-title="TV COLOMBIA",CANAL CNC
+http://tvpremiumhd.club/lista-gratuita/me/s885.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj4RKRK.png" group-title="TV CHILE" group-title="MUSICA",CAROLINA TV
+http://tvpremiumhd.club/lista-gratuita/me/s876.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujwavzT.jpg" group-title="TV PERU",CAPITAL TV
+http://tvpremiumhd.club/lista-gratuita/me/s889.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NrMvtD.jpg" group-title="TV ECUADOR",CANELA TV
+http://tvpremiumhd.club/lista-gratuita/me/s881.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNsuSIB.png" group-title="TV ARGENTINA",SEÑAL PROVINCIAL
+http://tvpremiumhd.club/lista-gratuita/me/s865.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YVgNbxA.png" group-title="TV ARGENTINA",CANAL ORBE 21
+http://tvpremiumhd.club/lista-gratuita/me/s864.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1sJiHa.png" group-title="TV VARIOS",CANAL M URUGUAY
+http://tvpremiumhd.club/lista-gratuita/me/s894.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3p7hpb6.jpg" group-title="TV COSTA RICA",CANAL 9 TV SUR
+http://tvpremiumhd.club/lista-gratuita/me/s897.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOFsAhO.png" group-title="TV ARGENTINA",CANAL 9 SALTA
+http://tvpremiumhd.club/lista-gratuita/me/s860.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGZ7OLs.png" group-title="TV ARGENTINA",CANAL 79 MAR DE PLATA
+http://tvpremiumhd.club/lista-gratuita/me/s862.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVhV8ki.jpg" group-title="TV ARGENTINA",CANAL 4 SAN JUAN
+http://tvpremiumhd.club/lista-gratuita/me/s859.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uRppzDi.jpg" group-title="TV ARGENTINA",CANAL 4 POSADAS
+http://tvpremiumhd.club/lista-gratuita/me/s858.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7d9nVca.jpg" group-title="TV ARGENTINA",CANAL 4 ESQUEL
+http://tvpremiumhd.club/lista-gratuita/me/s857.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSQIx2R.png" group-title="TV ARGENTINA",CANAL 3 PINAMAR
+http://tvpremiumhd.club/lista-gratuita/me/s856.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxuXeWz.png" group-title="MUSICA" group-title="TV VARIOS",CANAL 2 NICARAGUA
+http://tvpremiumhd.club/lista-gratuita/me/s919.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wPNbqz.jpg" group-title="TV REP DOMINICANA",CANAL 14
+http://tvpremiumhd.club/lista-gratuita/me/s884.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jK5ce7g.png" group-title="TV ARGENTINA",CANAL 10 RIONEGRINA
+http://tvpremiumhd.club/lista-gratuita/me/s861.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4JI45N.png" group-title="MUSICA",CALIFORNIA MUSIC CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/s825.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHDwidX.png" group-title="TV COLOMBIA",CALI TV
+http://tvpremiumhd.club/lista-gratuita/me/s883.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PHWVEp6.jpg" group-title="TV PANAMA",CABLE ONDA
+http://tvpremiumhd.club/lista-gratuita/me/s824.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCCvvJj.png" group-title="TV REP DOMINICANA",BONAO TV CANAL 12
+http://tvpremiumhd.club/lista-gratuita/me/s905.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L9CyGqz.jpg" group-title="TV VARIOS",BOLIVIA TV
+http://tvpremiumhd.club/lista-gratuita/me/s934.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eA0HgZ9.jpg" group-title="TV CHILE",BIO BIO TV CANAL 9
+http://tvpremiumhd.club/lista-gratuita/me/s875.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PusM5CE.png" group-title="TV PERU",BHTV
+http://tvpremiumhd.club/lista-gratuita/me/s888.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9vwEJf.png" group-title="TV VARIOS",AZTECA HONDURAS
+http://tvpremiumhd.club/lista-gratuita/me/s925.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puCnTGx.gif" group-title="TV VARIOS",ATB BOLIVIA
+http://tvpremiumhd.club/lista-gratuita/me/s933.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uVBSUFx.jpg" group-title="TV CHILE",ARABTV
+http://tvpremiumhd.club/lista-gratuita/me/s874.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVnfv5e.png" group-title="TV PERU",ANTARES
+http://tvpremiumhd.club/lista-gratuita/me/s811.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J3LCKqX.png" group-title="DEPORTES",AD SPORTS 1
+http://tvpremiumhd.club/lista-gratuita/me/s819.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEKPDX4.png" group-title="DEPORTES",AD SPORTS 2
+http://tvpremiumhd.club/lista-gratuita/me/s820.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZG2cdx.png" group-title="TV ARGENTINA",5TV CORRIENTES
+http://tvpremiumhd.club/lista-gratuita/me/s855.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flL57gK.png" group-title="MUSICA",PORTAL FOX MIX TV
+http://tvpremiumhd.club/lista-gratuita/me/s810.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CR8u0gI.png" group-title="MUSICA",XTREMO CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/s918.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYtQumz.jpg" group-title="TV MEXICO",AZ PLUS
+http://tvpremiumhd.club/lista-gratuita/me/s821.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asHQGxx.jpg" group-title="TV MEXICO",AZCORAZON
+http://tvpremiumhd.club/lista-gratuita/me/g479.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Uf90Jk.png" group-title="TV MEXICO",AZMUNDO
+http://tvpremiumhd.club/lista-gratuita/me/g500.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49XvfIv.jpg" group-title="INFANTIL",BABY TV
+http://tvpremiumhd.club/lista-gratuita/me/g478.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29jJ9hS.png" group-title="TV USA",BBC WORLD
+http://tvpremiumhd.club/lista-gratuita/me/g553.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdeK5kZ.jpg" group-title="TV USA",BLOOMBERG
+http://tvpremiumhd.club/lista-gratuita/me/g527.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd2dAQD.jpg" group-title="ENTRETENIMIENTO",CANAL CLARO
+http://tvpremiumhd.club/lista-gratuita/me/g485.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GTQSA0.png" group-title="TV MEXICO",LAS ESTRELLAS
+http://tvpremiumhd.club/lista-gratuita/me/g495.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL",CARTOON NETWORK
+http://tvpremiumhd.club/lista-gratuita/me/g535.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SI0nO2b.png" group-title="INFANTIL",DISNEY CHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g567.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2HTZUO.jpg" group-title="INFANTIL",DISNEY JR 
+http://tvpremiumhd.club/lista-gratuita/me/g571.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rREMWJA.png" group-title="INFANTIL",DISNEY XD 
+http://tvpremiumhd.club/lista-gratuita/me/g538.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8gEe5b.png" group-title="ENTRETENIMIENTO",DW LATINO 
+http://tvpremiumhd.club/lista-gratuita/me/g556.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8gEe5b.png" group-title="ENTRETENIMIENTO",DW AMERIKA
+http://tvpremiumhd.club/lista-gratuita/me/g493.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wtk0K3j.png" group-title="ENTRETENIMIENTO",E! ENTRETENIMIENT
+http://tvpremiumhd.club/lista-gratuita/me/g501.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev4ZefU.png" group-title="TV RELIGION",ESNE RELIGION
+http://tvpremiumhd.club/lista-gratuita/me/g446.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n4VoR3E.png" group-title="ENTRETENIMIENTO",EUROCHANNEL
+http://tvpremiumhd.club/lista-gratuita/me/g512.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9WE73s.png" group-title="ENTRETENIMIENTO",MUNDO FOX
+http://tvpremiumhd.club/lista-gratuita/me/g490.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F35wDI.png" group-title="ENTRETENIMIENTO",Fox Series
+http://tvpremiumhd.club/lista-gratuita/me/g460.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="ENTRETENIMIENTO",FOX LIFE LAT
+http://tvpremiumhd.club/lista-gratuita/me/g533.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="ENTRETENIMIENTO",FOX LIFE MX
+http://tvpremiumhd.club/lista-gratuita/me/g581.ts
+
+#EXTINF:-1 tvg-name="Canal 4 AR" tvg-logo="https://i.imgur.com/CuGYoYK.jpg" group-title="TV ARGENTINA",Canal 4
+http://tvpremiumhd.club/lista-gratuita/me/europac4.m3u8
+#EXTINF:-1 tvg-name="Telepin TV" tvg-logo="https://i.imgur.com/gclbGKi.jpg" group-title="TV ARGENTINA",Telepin TV
+http://tvpremiumhd.club/lista-gratuita/me/telepinx.m3u8
+#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/ubzkixu.png" group-title="TV ARGENTINA",Canal 26
+http://tvpremiumhd.club/lista-gratuita/me/canal26.m3u8
+#EXTINF:-1 tvg-name="Aire Santafe" tvg-logo="https://i.imgur.com/DOoFu4P.png" group-title="TV ARGENTINA",Aire Santafe
+http://tvpremiumhd.club/lista-gratuita/me/airesantafe-ar.m3u8
+#EXTINF:-1 tvg-name="Real Madrid" tvg-logo="https://i.imgur.com/UOiAOKo.jpg" group-title="DEPORTES",Real Madrid
+http://tvpremiumhd.club/lista-gratuita/me/realmadrid.ts
+#EXTINF:-1 tvg-name="CDO" tvg-logo="https://i.imgur.com/7xLQmme.jpg" group-title="DEPORTES",CDO
+http://tvpremiumhd.club/lista-gratuita/me/cdo.ts
+#EXTINF:-1 tvg-name="Sevilla TV" tvg-logo="https://i.imgur.com/hlBki6S.png.png" group-title="DEPORTES",Sevilla TV
+http://tvpremiumhd.club/lista-gratuita/me/sevilla.ts
+#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/hlBki6S.png" group-title="DEPORTES",Todo Deportes
+http://tvpremiumhd.club/lista-gratuita/me/tododep.ts
+#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/hJgXuw6.png" group-title="DEPORTES",Todo Deportes HD
+http://tvpremiumhd.club/lista-gratuita/me/tododeportesx.m3u8
+#EXTINF:-1 tvg-name="MBL"  tvg-logo="https://i.imgur.com/snQEhT9.png" group-title="DEPORTES",MBL
+http://tvpremiumhd.club/lista-gratuita/me/mbl.m3u8
+
+#EXTINF:-1 tvg-name="TV MEXICO" tvg-logo="http://tvpremiumhd.com/tv.png" group-title="TV MEXICO",TV MEXICO
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/gpTfAfW.png" group-title="TV MEXICO",LAS ESTRELLAS SOLO MEXICO
+http://tvpremiumhd.club/lista-gratuita/me/lasestrellas.m3u8
+#EXTINF:-1 tvg-id="https://i.imgur.com/WTBjdEb.png" tvg-name="Azteca Uno" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1706.png" group-title="TV MEXICO",Azteca Uno
+http://tvpremiumhd.club/lista-gratuita/me/s167.ts
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/7WTzXck.png" group-title="TV MEXICO",Azteca 7
+http://tvpremiumhd.club/lista-gratuita/me/az7.m3u8
+#EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://i.imgur.com/2ItMbDH.jpg" group-title="TV MEXICO",ADN 40
+http://tvpremiumhd.club/lista-gratuita/me/adn40.m3u8
+#EXTINF:-1 tvg-name="Canal Once" tvg-logo="https://i.imgur.com/q43qwSE.png" group-title="TV MEXICO",Canal Once
+http://tvpremiumhd.club/lista-gratuita/me/canalonce.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PphOeSS.png" group-title="TV MEXICO",FORO TV
+http://tvpremiumhd.club/lista-gratuita/me/s847.ts
+#EXTINF:-1 tvg-name="Multimedios" tvg-logo="https://i.imgur.com/3RsI1z6.png" group-title="TV MEXICO",Multimedios
+http://tvpremiumhd.club/lista-gratuita/me/multimedios.m3u8
+#EXTINF:-1 tvg-name="Ocho TV" tvg-logo="https://i.imgur.com/pRaKVh9.png" group-title="TV MEXICO",Ocho TV
+http://tvpremiumhd.club/lista-gratuita/me/ochotv.m3u8
+#EXTINF:-1 tvg-name="Az +" tvg-logo="https://i.imgur.com/gpTfAfW.png" group-title="TV MEXICO",Az +
+http://tvpremiumhd.club/lista-gratuita/me/s763.ts
+#EXTINF:-1 tvg-name="Canal Mexiquence" tvg-logo="https://i.imgur.com/ntFCDzl.png" group-title="TV MEXICO",Canal Mexiquence
+http://tvpremiumhd.club/lista-gratuita/me/cmexiquence.ts
+#EXTINF:-1 tvg-name="Efecto TV" tvg-logo="https://i.imgur.com/Q903Sam.png" group-title="TV MEXICO",Efecto TV
+http://tvpremiumhd.club/lista-gratuita/me/efectotv.ts
+#EXTINF:-1 tvg-name="TV MAS" tvg-logo="https://i.imgur.com/TYnqwUr.png" group-title="TV MEXICO",TV MAS
+http://tvpremiumhd.club/lista-gratuita/me/teleuv.ts
+#EXTINF:-1 tvg-name="Canal Judicial" tvg-logo="https://i.imgur.com/tNvHq2F.png" group-title="TV MEXICO",Canal Judicial
+http://tvpremiumhd.club/lista-gratuita/me/cjudicial.ts
+#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://i.imgur.com/u9cxhTF.jpg" group-title="TV MEXICO",Canal 10
+http://tvpremiumhd.club/lista-gratuita/me/canal10.ts
+#EXTINF:-1 tvg-name="Canal del Congreso" tvg-logo="https://i.imgur.com/4quEMSH.jpg" group-title="TV MEXICO",Canal del Congreso
+http://tvpremiumhd.club/lista-gratuita/me/ccongreso.ts
+#EXTINF:-1 tvg-name="Aristegui Noticias" tvg-logo="https://i.imgur.com/X5ucxqs.jpg" group-title="TV MEXICO",Aristegui Noticias
+http://tvpremiumhd.club/lista-gratuita/me/aristegui.ts
+#EXTINF:-1 tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/MaOfemb.png" group-title="TV MEXICO",Milenio TV
+http://tvpremiumhd.club/lista-gratuita/me/mileniotv.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCPCYQB.png" group-title="TV REP DOMINICANA",TELESISTEMA
+http://tvpremiumhd.club/lista-gratuita/me/s913.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfQNVOi.png" group-title="TV MEXICO",PUEBLA TV
+http://tvpremiumhd.club/lista-gratuita/me/s671.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QhaXFb.png" group-title="TV ARGENTINA",TELE JUNIN
+http://tvpremiumhd.club/lista-gratuita/me/s871.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JDizGf.png" group-title="MUSICA",SLAM TV
+http://tvpremiumhd.club/lista-gratuita/me/s830.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLENEUh.jpg" group-title="TV CHILE",PINGUITO TV
+http://tvpremiumhd.club/lista-gratuita/me/s879.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qsAOo2.png" group-title="MUSICA" group-title="TV CHILE",FUTURO 88.9
+http://tvpremiumhd.club/lista-gratuita/me/s878.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PasZy5A.png" group-title="TV ARGENTINA",CANAL 13 MAX
+http://tvpremiumhd.club/lista-gratuita/me/s826.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3kZxKV.png" group-title="TV REP DOMINICANA",CANAL 11
+http://tvpremiumhd.club/lista-gratuita/me/s929.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xJT0Xg.jpg" group-title="CINE PREMIUM",SUNDANCE TV
+http://tvpremiumhd.club/lista-gratuita/me/g521.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png" group-title="INFANTIL",BOOMERANG
+http://tvpremiumhd.club/lista-gratuita/me/g519.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sm0QfWm.jpg" group-title="TV RELIGION",IBERO
+http://tvpremiumhd.club/lista-gratuita/me/g451.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9B8R7BU.png" group-title="TV USA",ALJAZEERA
+http://tvpremiumhd.club/lista-gratuita/me/g558.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eylxzjq.png" group-title="TV COSTA RICA",TVS TU CANAL INTERACTIVO
+http://tvpremiumhd.club/lista-gratuita/me/s813.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXMAD6X.png" group-title="TV VENEZUELA",PLOMAR TV
+http://tvpremiumhd.club/lista-gratuita/me/s930.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0jW22x.png" group-title="TV ARGENTINA",EL 10 SALTA
+http://tvpremiumhd.club/lista-gratuita/me/s866.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7L0aGm.png" group-title="TV ARGENTINA",CANAL LOCAL OLAVARRIA
+http://tvpremiumhd.club/lista-gratuita/me/s863.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEqKmds.png" group-title="TV MEXICO",TLAXCALA TV
+http://tvpremiumhd.club/lista-gratuita/me/s853.ts
